@@ -20,6 +20,7 @@ Features
 
 Project Structure
 
+```text
 student_ml_clean/
 │── api.py
 │── main.py
@@ -37,6 +38,7 @@ student_ml_clean/
 │   └── models_compare.py
 │── .gitignore
 │── README.md
+```
 
 ⸻
 
