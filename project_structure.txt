@@ -1,0 +1,25 @@
+Phase 1 — Project foundation
+	•	Create folder
+	•	Create GitHub repo
+	•	Initialize git
+	•	Create .gitignore
+	•	Push empty structure
+
+Phase 2 — Python & ML
+	•	Dataset
+	•	Data loader
+	•	Preprocessing
+	•	Model training
+
+Phase 3 — Testing
+	•	pytest
+	•	folder structure
+	•	local tests
+
+Phase 4 — CI/CD
+	•	GitHub Actions
+	•	green pipeline
+
+Phase 5 — API & Deployment (later)
+
+No skipping. No rushing.
